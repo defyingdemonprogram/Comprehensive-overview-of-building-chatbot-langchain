@@ -1,0 +1,12 @@
+python-dotenv
+neo4j
+tiktoken
+
+wikipedia
+langchain
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+langchain-experimental
+# for graph database visualization
+yfiles-jupyter-graphs
