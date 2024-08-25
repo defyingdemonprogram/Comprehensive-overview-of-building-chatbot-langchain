@@ -1,0 +1,11 @@
+numpy
+sentence-transformers
+faiss-cpu
+
+# visualization tools
+seaborn
+matplotlib
+
+# for notebooks
+notebook
+tqdm
