@@ -1,0 +1,6 @@
+dotenv
+langchain-nvidia-ai-endpoints
+langchain-openai
+# langchain_nvidia
+
+notebook
